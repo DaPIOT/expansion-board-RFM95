@@ -1,8 +1,8 @@
-#Educational Testing PCB for RFM95/96 module<br>
+# Educational Testing PCB for RFM95/96 module
 <div align="center">
   <img src="images/1.png"> <br>
 </div>
-##Pinout<br>
+## Pinout
 <div align="center">
   <img src="images/2.png"> <br>
 </div>
