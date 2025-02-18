@@ -1,4 +1,7 @@
-# Educational Testing PCB for RFM95/96 module
+# Expansion PCB for RFM95/96 module
+
+> Only for testing and educational purposes
+
 <div align="center">
   <img src="images/1.png"> <br>
 </div>
